@@ -1,0 +1,9 @@
+# config.toml
+title = "My Go Application"
+author = "Your Name"
+debug = true
+
+[database]
+  server = "localhost"
+  port = 5432
+  dbname = "mydatabase"

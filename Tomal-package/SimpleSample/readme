@@ -1,0 +1,5 @@
+TOML 
+ # It's like a normal json file only using for config.
+ # But it's efficient for golang.
+ # It has a own structure for writing data's.
+ #
